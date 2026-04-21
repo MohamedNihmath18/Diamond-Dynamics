@@ -5,3 +5,5 @@ data/diamonds_engineered.csv
 data/diamonds_final.csv 
 __pycache__/ 
 .ipynb_checkpoints/ 
+app/models/best_regression_model.pkl 
+app/models/ann_model.pkl 
