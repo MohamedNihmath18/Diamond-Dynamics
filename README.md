@@ -5,6 +5,9 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit)
 ![Status](https://img.shields.io/badge/Status-Completed-green?style=for-the-badge)
 
+
+## 🚀 Live Demo
+👉 **[Click here to open Diamond Dynamics App](https://diamond-dynamics-nihmath.streamlit.app/)**
 ---
 
 ## 📌 Project Overview
